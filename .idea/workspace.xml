@@ -8,10 +8,10 @@
       <change afterPath="$PROJECT_DIR$/../../Nodejs-Express-assignment4/.idea/Nodejs-Express-assignment4.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Nodejsbasics/.idea/Nodejsbasics.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Nodejsbasics/assignment1/.idea/assignment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/first-react-app-2019.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/Person.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/Person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input-output-assignment/.idea/input-output-assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input-output-assignment/src/Input/UserInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input-output-assignment/src/Output/output.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input-output-assignment/src/Output/output.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TicTacToe/.idea/TicTacToe.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../firstproject/.idea/firstproject.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../javascript refresher/.idea/LearnNode.iml" afterDir="false" />
@@ -65,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1569287794468</updated>
       <workItem from="1569287795611" duration="2192000" />
-      <workItem from="1569417195538" duration="12183000" />
+      <workItem from="1569417195538" duration="17835000" />
+      <workItem from="1569521574226" duration="9192000" />
     </task>
     <servers />
   </component>
@@ -77,7 +78,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
