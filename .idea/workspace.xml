@@ -23,8 +23,6 @@
       <change afterPath="$PROJECT_DIR$/../../TicTacToe/.idea/TicTacToe.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../javascript refresher/.idea/LearnNode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +84,7 @@
       <workItem from="1569521574226" duration="31818000" />
       <workItem from="1570486571132" duration="1236000" />
       <workItem from="1570546416098" duration="7000" />
-      <workItem from="1571670147859" duration="544000" />
+      <workItem from="1571670147859" duration="840000" />
     </task>
     <servers />
   </component>
