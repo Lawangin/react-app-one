@@ -8,26 +8,23 @@
       <change afterPath="$PROJECT_DIR$/../../Nodejs-Express-assignment4/.idea/Nodejs-Express-assignment4.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Nodejsbasics/.idea/Nodejsbasics.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Nodejsbasics/assignment1/.idea/assignment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Persons/Persons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/App.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Http-request-with-React/src/containers/Blog/Posts/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Http-request-with-React/src/containers/Blog/Posts/Posts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Http-request-with-React/src/hoc/asyncComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitcoin-tracker-app/src/containers/TrackerDisplay/TrackerDisplay.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../input-output-assignment/.idea/input-output-assignment.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../input-output-assignment/src/Input/UserInput.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../input-output-assignment/src/Output/output.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../input-output-assignment/src/Output/output.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lists-conditional-assignment/.idea/lists-conditional-assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux--01-start/redux-basics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux--01-start/src/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing--assignment-problem/src/App.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TicTacToe/.idea/TicTacToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../firstproject/.idea/firstproject.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../javascript refresher/.idea/LearnNode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +83,10 @@
       <updated>1569287794468</updated>
       <workItem from="1569287795611" duration="2192000" />
       <workItem from="1569417195538" duration="17835000" />
-      <workItem from="1569521574226" duration="31253000" />
+      <workItem from="1569521574226" duration="31818000" />
+      <workItem from="1570486571132" duration="1236000" />
+      <workItem from="1570546416098" duration="7000" />
+      <workItem from="1571670147859" duration="544000" />
     </task>
     <servers />
   </component>
